@@ -1,2 +1,2 @@
 Hii smauur here!
-# This is a my Mini Project
+# This is a my Mini Project.
